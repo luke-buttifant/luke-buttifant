@@ -7,7 +7,7 @@
 - :school: I am a third year student at Southampton Solent University.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning: `Computer Science`, `Software Engineering` and `Ethical Hacking`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
+- :thinking: I’m currently open for: `An Internship` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
 
 <br>
