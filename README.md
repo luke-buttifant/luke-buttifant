@@ -3,13 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Looking+For+Work;&center=true&width=500&height=50"></a>
 </p>
 
-## :sassy_man:  About me
-- :school: I am a third year student at Southampton Solent University.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning: `Computer Science`, `Software Engineering` and `Ethical Hacking`.
-- :thinking: I’m currently open for an `Internship` or a new `job opportunity`.
-- :nerd_face: Always `learning new things`
-
 <br>
 
 ## 🔥 Streak Stats
